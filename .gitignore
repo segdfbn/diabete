@@ -74,3 +74,4 @@ docs/
 static/
 *.png
 .archive/
+.data/
