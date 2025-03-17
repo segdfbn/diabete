@@ -84,8 +84,9 @@ This is a simple and user-friendly API designed to detect diabetes using a deep 
 - **Matplotlib** for visualizing training loss
 - **Joblib** for model and scaler serialization
 
-## License
-This project is licensed under the MIT License.
+
+## Preview
+![image](images/image.png)
 
 ---
 
