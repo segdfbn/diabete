@@ -72,6 +72,5 @@ docs/
 
 # specific
 static/
-*.png
 .archive/
 .data/
